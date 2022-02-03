@@ -1,0 +1,10 @@
+stellarburgers/pageobjects/LoginPage.class
+stellarburgers/pageobjects/MainPage.class
+stellarburgers/pageobjects/ProfilePage.class
+com/model/UserRegisterResponse.class
+com/model/Tokens.class
+com/Base.class
+com/UserOperations.class
+stellarburgers/pageobjects/PasswordRecoveryPage.class
+stellarburgers/pageobjects/RegistrationPage.class
+com/model/User.class
